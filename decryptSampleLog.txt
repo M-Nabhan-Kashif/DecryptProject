@@ -1,0 +1,1909 @@
+Enter the name of the encrypted file: est.txt
+
+The encrypted text is:
+I3*{phh8Y32*A*]My*@)5Y{A7*{A8M8*ypY{p*Y77P8@9A@M*@pM*9MRA9sA$7M*RM3@A7
+^PA7Y@YM8*h]*R)*]9YM3af*=pM97h{s*qh7RM8f*I*pALM*M3aMALhP9Maf*A8*]A9*A8
+5h88Y$7Mf*@h*8M7M{@*@ph8M*ypY{p*59M8M3@Ma*@pM*RY3YRPR*h]
+8M38A@Yh3A7Y8Rf*ypY7M*h]]M9Y32*A*]AY9*]YM7a*]h9*pY8*@A7M3@8c**I@*Y8f
+phyMLM9f*P3]h9@P3A@M7)*YR5h88Y$7M*M3@Y9M7)*@h*8M5A9A@M*@pM*8M38A@Yh3A7
+]9hR*@pM*{9YRY3A7f*A3a*A*{p9h3Y{7M9*Y8*7M]@*Y3*@pM*aY7MRRA*@pA@*pM*RP8@
+MY@pM9*8A{9Y]Y{M*aM@AY78*ypY{p*A9M*M88M3@YA7*@h*pY8*8@A@MRM3@*A3a*8h
+2YLM*A*]A78M*YR59M88Yh3*h]*@pM*59h$7MRf*h9*pM*RP8@*P8M*RA@@M9*ypY{p
+{pA3{Mf*A3a*3h@*{phY{Mf*pA8*59hLYaMa*pYR*yY@pc**dY@p*@pY8*8ph9@*59M]A{M
+I*8pA77*@P93*@h*R)*3h@M8*h]*ypA@*59hLMa*@h*$M*A*8@9A32Mf*@phP2p*A
+5M{P7YA97)*@M99Y$7Mf*{pAY3*h]*MLM3@8c
+
+I@*yA8*A*$7AWY32*ph@*aA)*Y3*,P2P8@c**`AsM9*=@9MM@*yA8*7YsM*A3*hLM3f*A3a
+@pM*27A9M*h]*@pM*8P37Y2p@*P5h3*@pM*)M77hy*$9Y{syh9s*h]*@pM*phP8M*A{9h88
+@pM*9hAa*yA8*5AY3]P7*@h*@pM*M)Mc**I@*yA8*pA9a*@h*$M7YMLM*@pA@*@pM8M
+yM9M*@pM*8ARM*yA778*ypY{p*7hhRMa*8h*27hhRY7)*@p9hP2p*@pM*]h28*h]
+yY3@M9c**GP9*$7Y3a8*yM9M*pA7]4a9Ay3f*A3a*qh7RM8*7A)*{P97Ma*P5h3*@pM
+8h]Af*9MAaY32*A3a*9M49MAaY32*A*7M@@M9*ypY{p*pM*pAa*9M{MYLMa*$)*@pM
+Rh93Y32*5h8@c**lh9*R)8M7]f*R)*@M9R*h]*8M9LY{M*Y3*I3aYA*pAa*@9AY3Ma*RM
+@h*8@A3a*pMA@*$M@@M9*@pA3*{h7af*A3a*A*@pM9RhRM@M9*A@*3Y3M@)*yA8*3h
+pA9a8pY5c**`P@*@pM*Rh93Y32*5A5M9*yA8*P3Y3@M9M8@Y32c**;A97YARM3@*pAa
+9Y8M3c*zLM9)$ha)*yA8*hP@*h]*@hy3f*A3a*I*)MA93Ma*]h9*@pM*27AaM8*h]*@pM
+HMy*lh9M8@*h9*@pM*8pY327M*h]*=hP@p8MAc**,*aM57M@Ma*$A3s*A{{hP3@*pAa
+{AP8Ma*RM*@h*5h8@5h3M*R)*ph7YaA)f*A3a*A8*@h*R)*{hR5A3Yh3f*3MY@pM9*@pM
+{hP3@9)*3h9*@pM*8MA*59M8M3@Ma*@pM*87Y2p@M8@*A@@9A{@Yh3*@h*pYRc**qM
+7hLMa*@h*7YM*Y3*@pM*LM9)*{M3@M9*h]*]YLM*RY77Yh38*h]*5Mh57Mf*yY@p*pY8
+]Y7ARM3@8*8@9M@{pY32*hP@*A3a*9P33Y32*@p9hP2p*@pMRf*9M85h38YLM*@h*MLM9)
+7Y@@7M*9PRhP9*h9*8P85Y{Yh3*h]*P38h7LMa*{9YRMc**,559M{YA@Yh3*h]*3A@P9M
+]hP3a*3h*57A{M*ARh32*pY8*RA3)*2Y]@8f*A3a*pY8*h37)*{pA32M*yA8*ypM3*pM
+@P93Ma*pY8*RY3a*]9hR*@pM*MLY74ahM9*h]*@pM*@hy3*@h*@9A{s*ahy3*pY8
+$9h@pM9*h]*@pM*{hP3@9)c
+
+lY3aY32*@pA@*qh7RM8*yA8*@hh*A$8h9$Ma*]h9*{h3LM98A@Yh3*I*pAa*@h88Ma*8YaM
+@pM*$A99M3*5A5M9f*A3a*7MA3Y32*$A{s*Y3*R)*{pAY9*I*]M77*Y3@h*A*$9hy3
+8@Pa)c**=PaaM37)*R)*{hR5A3Yh3b8*LhY{M*$9hsM*Y3*P5h3*R)*@phP2p@8!
+
+jnhP*A9M*9Y2p@f*dA@8h3fj*8AYa*pMc**jI@*ahM8*8MMR*A*Rh8@*59M5h8@M9hP8
+yA)*h]*8M@@7Y32*A*aY85P@Mcj
+
+j0h8@*59M5h8@M9hP86j*I*MJ{7AYRMaf*A3a*@pM3*8PaaM37)*9MA7YWY32*phy*pM
+pAa*M{phMa*@pM*Y3Rh8@*@phP2p@*h]*R)*8hP7f*I*8A@*P5*Y3*R)*{pAY9*A3a
+8@A9Ma*A@*pYR*Y3*$7A3s*ARAWMRM3@c
+
+Frequencies of characters.
+Character - Frequency
+  - 0
+! - 1
+" - 0
+# - 0
+$ - 22
+% - 0
+& - 0
+' - 0
+( - 0
+) - 36
+* - 407
++ - 0
+, - 3
+- - 0
+. - 0
+/ - 0
+0 - 1
+1 - 0
+2 - 33
+3 - 136
+4 - 3
+5 - 40
+6 - 1
+7 - 81
+8 - 125
+9 - 117
+: - 0
+; - 1
+< - 0
+= - 4
+> - 0
+? - 0
+@ - 175
+A - 150
+B - 0
+C - 0
+D - 0
+E - 0
+F - 0
+G - 1
+H - 1
+I - 13
+J - 1
+K - 0
+L - 21
+M - 233
+N - 0
+O - 0
+P - 52
+Q - 0
+R - 62
+S - 0
+T - 0
+U - 0
+V - 0
+W - 3
+X - 0
+Y - 130
+Z - 0
+[ - 0
+\ - 0
+] - 47
+^ - 1
+_ - 0
+` - 2
+a - 75
+b - 1
+c - 18
+d - 2
+e - 0
+f - 29
+g - 0
+h - 153
+i - 0
+j - 6
+k - 0
+l - 3
+m - 0
+n - 1
+o - 0
+p - 122
+q - 4
+r - 0
+s - 11
+t - 0
+u - 0
+v - 0
+w - 0
+x - 0
+y - 36
+z - 1
+{ - 52
+| - 0
+} - 0
+~ - 0
+
+The current version of the key for ASCII characters 32 to 126 is: 
+Encrypt character:  , decrypt character: \
+Encrypt character: !, decrypt character: W
+Encrypt character: ", decrypt character: <
+Encrypt character: #, decrypt character: >
+Encrypt character: $, decrypt character: b
+Encrypt character: %, decrypt character: @
+Encrypt character: &, decrypt character: %
+Encrypt character: ', decrypt character: `
+Encrypt character: (, decrypt character: ^
+Encrypt character: ), decrypt character: y
+Encrypt character: *, decrypt character:  
+Encrypt character: +, decrypt character: ~
+Encrypt character: ,, decrypt character: N
+Encrypt character: -, decrypt character: $
+Encrypt character: ., decrypt character: {
+Encrypt character: /, decrypt character: }
+Encrypt character: 0, decrypt character: G
+Encrypt character: 1, decrypt character: +
+Encrypt character: 2, decrypt character: ,
+Encrypt character: 3, decrypt character: n
+Encrypt character: 4, decrypt character: S
+Encrypt character: 5, decrypt character: w
+Encrypt character: 6, decrypt character: D
+Encrypt character: 7, decrypt character: d
+Encrypt character: 8, decrypt character: s
+Encrypt character: 9, decrypt character: h
+Encrypt character: :, decrypt character: &
+Encrypt character: ;, decrypt character: _
+Encrypt character: <, decrypt character: #
+Encrypt character: =, decrypt character: A
+Encrypt character: >, decrypt character: Z
+Encrypt character: ?, decrypt character: =
+Encrypt character: @, decrypt character: t
+Encrypt character: A, decrypt character: o
+Encrypt character: B, decrypt character: Q
+Encrypt character: C, decrypt character: |
+Encrypt character: D, decrypt character: /
+Encrypt character: E, decrypt character: ]
+Encrypt character: F, decrypt character: [
+Encrypt character: G, decrypt character: P
+Encrypt character: H, decrypt character: B
+Encrypt character: I, decrypt character: k
+Encrypt character: J, decrypt character: M
+Encrypt character: K, decrypt character: (
+Encrypt character: L, decrypt character: .
+Encrypt character: M, decrypt character: e
+Encrypt character: N, decrypt character: )
+Encrypt character: O, decrypt character: 7
+Encrypt character: P, decrypt character: m
+Encrypt character: Q, decrypt character: 6
+Encrypt character: R, decrypt character: u
+Encrypt character: S, decrypt character: 5
+Encrypt character: T, decrypt character: 4
+Encrypt character: U, decrypt character: 9
+Encrypt character: V, decrypt character: X
+Encrypt character: W, decrypt character: "
+Encrypt character: X, decrypt character: 3
+Encrypt character: Y, decrypt character: i
+Encrypt character: Z, decrypt character: 8
+Encrypt character: [, decrypt character: K
+Encrypt character: \, decrypt character: ?
+Encrypt character: ], decrypt character: f
+Encrypt character: ^, decrypt character: L
+Encrypt character: _, decrypt character: !
+Encrypt character: `, decrypt character: R
+Encrypt character: a, decrypt character: l
+Encrypt character: b, decrypt character: C
+Encrypt character: c, decrypt character: v
+Encrypt character: d, decrypt character: O
+Encrypt character: e, decrypt character: z
+Encrypt character: f, decrypt character: p
+Encrypt character: g, decrypt character: 0
+Encrypt character: h, decrypt character: a
+Encrypt character: i, decrypt character: J
+Encrypt character: j, decrypt character: T
+Encrypt character: k, decrypt character: 2
+Encrypt character: l, decrypt character: E
+Encrypt character: m, decrypt character: V
+Encrypt character: n, decrypt character: '
+Encrypt character: o, decrypt character: *
+Encrypt character: p, decrypt character: r
+Encrypt character: q, decrypt character: -
+Encrypt character: r, decrypt character: :
+Encrypt character: s, decrypt character: I
+Encrypt character: t, decrypt character: q
+Encrypt character: u, decrypt character: Y
+Encrypt character: v, decrypt character: U
+Encrypt character: w, decrypt character: j
+Encrypt character: x, decrypt character: ;
+Encrypt character: y, decrypt character: g
+Encrypt character: z, decrypt character: H
+Encrypt character: {, decrypt character: c
+Encrypt character: |, decrypt character: x
+Encrypt character: }, decrypt character: 1
+Encrypt character: ~, decrypt character: F
+
+The current version of the decrypted text is: 
+
+kn craasin, o feg tywicod coses gricr iddmsthote tre heuohIobde uentod
+Lmodities af uy fhienlp ArehdacI -aduesp k ro.e enleo.amhelp os foh os
+wassibdep ta sedect trase gricr whesentel tre uiniumu af
+sensotianodisup gride affehin, o foih fiedl fah ris todentsv  kt isp
+rage.ehp mnfahtmnotedy iuwassibde entihedy ta sewohote tre sensotianod
+fhau tre chiuinodp onl o crhanicdeh is deft in tre lideuuo trot re umst
+eitreh sochifice letoids gricr ohe essentiod ta ris stoteuent onl sa
+,i.e o fodse iuwhessian af tre whabdeup ah re umst mse uotteh gricr
+croncep onl nat craicep ros wha.ilel riu gitrv  Oitr tris sraht whefoce
+k srodd tmhn ta uy nates af grot wha.el ta be o sthon,ep tram,r o
+wecmdiohdy tehhibdep croin af e.entsv
+
+kt gos o bdo"in, rat loy in Nm,mstv  RoIeh Atheet gos diIe on a.enp onl
+tre ,dohe af tre smndi,rt mwan tre yeddag bhicIgahI af tre ramse ochass
+tre haol gos woinfmd ta tre eyev  kt gos rohl ta bedie.e trot trese
+gehe tre soue godds gricr daauel sa ,daauidy trham,r tre fa,s af
+gintehv  Pmh bdinls gehe rodfSlhognp onl -adues doy cmhdel mwan tre
+safop heolin, onl heSheolin, o detteh gricr re rol hecei.el by tre
+uahnin, wastv  Eah uysedfp uy tehu af seh.ice in knlio rol thoinel ue
+ta stonl reot betteh tron cadlp onl o trehuaueteh ot ninety gos na
+rohlsriwv  Rmt tre uahnin, woweh gos mnintehestin,v  _ohdiouent rol
+hisenv H.ehybaly gos amt af tagnp onl k yeohnel fah tre ,doles af tre
+Beg Eahest ah tre srin,de af Aamtrseov  N lewdetel bonI occamnt rol
+comsel ue ta wastwane uy radiloyp onl os ta uy cauwonianp neitreh tre
+camnthy nah tre seo whesentel tre sdi,rtest otthoctian ta riuv  -e
+da.el ta die in tre .ehy centeh af fi.e uiddians af weawdep gitr ris
+fidouents sthetcrin, amt onl hmnnin, trham,r treup heswansi.e ta e.ehy
+dittde hmuamh ah smswician af mnsad.el chiuev  Nwwheciotian af notmhe
+famnl na wdoce ouan, ris uony ,iftsp onl ris andy cron,e gos gren re
+tmhnel ris uinl fhau tre e.idSlaeh af tre tagn ta thocI lagn ris
+bhatreh af tre camnthyv
+
+Einlin, trot -adues gos taa obsahbel fah can.ehsotian k rol tassel sile
+tre bohhen wowehp onl deonin, bocI in uy croih k fedd inta o bhagn
+stmlyv  Amllendy uy cauwonianCs .aice bhaIe in mwan uy tram,rtsW
+
+T'am ohe hi,rtp OotsanpT soil rev  Tkt laes seeu o uast whewastehams
+goy af settdin, o liswmtevT
+
+TGast whewastehamsDT k eMcdoiuelp onl tren smllendy heodi"in, rag re
+rol ecrael tre inuast tram,rt af uy samdp k sot mw in uy croih onl
+stohel ot riu in bdonI ouo"euentv
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: r
+Enter what the character r should decrypt to instead: h
+r's will now decrypt to h's and vice versa.
+
+The current version of the decrypted text is: 
+
+kn chaasin, o feg tywicod coses ghich iddmstrote the reuorIobde uentod
+Lmodities af uy frienlp AherdacI -aduesp k ho.e enleo.amrelp os for os
+wassibdep ta sedect thase ghich wresentel the uiniumu af
+sensotianodisup ghide afferin, o foir fiedl far his todentsv  kt isp
+hage.erp mnfartmnotedy iuwassibde entiredy ta seworote the sensotianod
+frau the criuinodp onl o chranicder is deft in the lideuuo thot he umst
+either socrifice letoids ghich ore essentiod ta his stoteuent onl sa
+,i.e o fodse iuwressian af the wrabdeup ar he umst mse uotter ghich
+choncep onl nat chaicep hos wra.ilel hiu githv  Oith this shart wrefoce
+k shodd tmrn ta uy nates af ghot wra.el ta be o stron,ep tham,h o
+wecmdiordy terribdep choin af e.entsv
+
+kt gos o bdo"in, hat loy in Nm,mstv  RoIer Atreet gos diIe on a.enp onl
+the ,dore af the smndi,ht mwan the yeddag bricIgarI af the hamse ocrass
+the raol gos woinfmd ta the eyev  kt gos horl ta bedie.e thot these
+gere the soue godds ghich daauel sa ,daauidy thram,h the fa,s af
+ginterv  Pmr bdinls gere hodfSlrognp onl -adues doy cmrdel mwan the
+safop reolin, onl reSreolin, o detter ghich he hol recei.el by the
+uarnin, wastv  Ear uysedfp uy teru af ser.ice in knlio hol troinel ue
+ta stonl heot better thon cadlp onl o theruaueter ot ninety gos na
+horlshiwv  Rmt the uarnin, wower gos mninterestin,v  _ordiouent hol
+risenv H.erybaly gos amt af tagnp onl k yeornel far the ,doles af the
+Beg Earest ar the shin,de af Aamthseov  N lewdetel bonI occamnt hol
+comsel ue ta wastwane uy hadiloyp onl os ta uy cauwonianp neither the
+camntry nar the seo wresentel the sdi,htest ottroctian ta hiuv  -e
+da.el ta die in the .ery center af fi.e uiddians af weawdep gith his
+fidouents stretchin, amt onl rmnnin, thram,h theup reswansi.e ta e.ery
+dittde rmuamr ar smswician af mnsad.el criuev  Nwwreciotian af notmre
+famnl na wdoce ouan, his uony ,iftsp onl his andy chon,e gos ghen he
+tmrnel his uinl frau the e.idSlaer af the tagn ta trocI lagn his
+brather af the camntryv
+
+Einlin, thot -adues gos taa obsarbel far can.ersotian k hol tassel sile
+the borren wowerp onl deonin, bocI in uy choir k fedd inta o bragn
+stmlyv  Amllendy uy cauwonianCs .aice braIe in mwan uy tham,htsW
+
+T'am ore ri,htp OotsanpT soil hev  Tkt laes seeu o uast wrewasterams
+goy af settdin, o liswmtevT
+
+TGast wrewasteramsDT k eMcdoiuelp onl then smllendy reodi"in, hag he
+hol echael the inuast tham,ht af uy samdp k sot mw in uy choir onl
+storel ot hiu in bdonI ouo"euentv
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: a
+Enter what the character a should decrypt to instead: o
+a's will now decrypt to o's and vice versa.
+
+The current version of the decrypted text is: 
+
+kn choosin, a feg tywicad cases ghich iddmstrate the reuarIabde uentad
+Lmadities of uy frienlp AherdocI -oduesp k ha.e enlea.omrelp as far as
+wossibdep to sedect those ghich wresentel the uiniumu of
+sensationadisup ghide offerin, a fair fiedl for his tadentsv  kt isp
+hoge.erp mnfortmnatedy iuwossibde entiredy to sewarate the sensationad
+frou the criuinadp anl a chronicder is deft in the lideuua that he umst
+either sacrifice letaids ghich are essentiad to his stateuent anl so
+,i.e a fadse iuwression of the wrobdeup or he umst mse uatter ghich
+chancep anl not choicep has wro.ilel hiu githv  Oith this short wreface
+k shadd tmrn to uy notes of ghat wro.el to be a stran,ep thom,h a
+wecmdiardy terribdep chain of e.entsv
+
+kt gas a bda"in, hot lay in Nm,mstv  RaIer Atreet gas diIe an o.enp anl
+the ,dare of the smndi,ht mwon the yeddog bricIgorI of the homse across
+the roal gas wainfmd to the eyev  kt gas harl to bedie.e that these
+gere the saue gadds ghich doouel so ,doouidy throm,h the fo,s of
+ginterv  Pmr bdinls gere hadfSlragnp anl -odues day cmrdel mwon the
+sofap realin, anl reSrealin, a detter ghich he hal recei.el by the
+uornin, wostv  Eor uysedfp uy teru of ser.ice in knlia hal trainel ue
+to stanl heat better than codlp anl a theruoueter at ninety gas no
+harlshiwv  Rmt the uornin, wawer gas mninterestin,v  _ardiauent hal
+risenv H.eryboly gas omt of tognp anl k yearnel for the ,dales of the
+Beg Eorest or the shin,de of Aomthseav  N lewdetel banI accomnt hal
+camsel ue to wostwone uy hodilayp anl as to uy couwanionp neither the
+comntry nor the sea wresentel the sdi,htest attraction to hiuv  -e
+do.el to die in the .ery center of fi.e uiddions of weowdep gith his
+fidauents stretchin, omt anl rmnnin, throm,h theup reswonsi.e to e.ery
+dittde rmuomr or smswicion of mnsod.el criuev  Nwwreciation of natmre
+fomnl no wdace auon, his uany ,iftsp anl his ondy chan,e gas ghen he
+tmrnel his uinl frou the e.idSloer of the togn to tracI logn his
+brother of the comntryv
+
+Einlin, that -odues gas too absorbel for con.ersation k hal tossel sile
+the barren wawerp anl deanin, bacI in uy chair k fedd into a brogn
+stmlyv  Amllendy uy couwanionCs .oice broIe in mwon uy thom,htsW
+
+T'om are ri,htp OatsonpT sail hev  Tkt loes seeu a uost wrewosteroms
+gay of settdin, a liswmtevT
+
+TGost wrewosteromsDT k eMcdaiuelp anl then smllendy readi"in, hog he
+hal echoel the inuost thom,ht of uy somdp k sat mw in uy chair anl
+starel at hiu in bdanI aua"euentv
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: d
+Enter what the character d should decrypt to instead: l
+d's will now decrypt to l's and vice versa.
+
+The current version of the decrypted text is: 
+
+kn choosin, a feg tywical cases ghich illmstrate the reuarIable uental
+Lmalities of uy friendp AherlocI -oluesp k ha.e endea.omredp as far as
+wossiblep to select those ghich wresented the uiniumu of
+sensationalisup ghile offerin, a fair field for his talentsv  kt isp
+hoge.erp mnfortmnately iuwossible entirely to sewarate the sensational
+frou the criuinalp and a chronicler is left in the dileuua that he umst
+either sacrifice details ghich are essential to his stateuent and so
+,i.e a false iuwression of the wrobleup or he umst mse uatter ghich
+chancep and not choicep has wro.ided hiu githv  Oith this short wreface
+k shall tmrn to uy notes of ghat wro.ed to be a stran,ep thom,h a
+wecmliarly terriblep chain of e.entsv
+
+kt gas a bla"in, hot day in Nm,mstv  RaIer Atreet gas liIe an o.enp and
+the ,lare of the smnli,ht mwon the yellog bricIgorI of the homse across
+the road gas wainfml to the eyev  kt gas hard to belie.e that these
+gere the saue galls ghich looued so ,loouily throm,h the fo,s of
+ginterv  Pmr blinds gere halfSdragnp and -olues lay cmrled mwon the
+sofap readin, and reSreadin, a letter ghich he had recei.ed by the
+uornin, wostv  Eor uyselfp uy teru of ser.ice in kndia had trained ue
+to stand heat better than coldp and a theruoueter at ninety gas no
+hardshiwv  Rmt the uornin, wawer gas mninterestin,v  _arliauent had
+risenv H.erybody gas omt of tognp and k yearned for the ,lades of the
+Beg Eorest or the shin,le of Aomthseav  N dewleted banI accomnt had
+camsed ue to wostwone uy holidayp and as to uy couwanionp neither the
+comntry nor the sea wresented the sli,htest attraction to hiuv  -e
+lo.ed to lie in the .ery center of fi.e uillions of weowlep gith his
+filauents stretchin, omt and rmnnin, throm,h theup reswonsi.e to e.ery
+little rmuomr or smswicion of mnsol.ed criuev  Nwwreciation of natmre
+fomnd no wlace auon, his uany ,iftsp and his only chan,e gas ghen he
+tmrned his uind frou the e.ilSdoer of the togn to tracI dogn his
+brother of the comntryv
+
+Eindin, that -olues gas too absorbed for con.ersation k had tossed side
+the barren wawerp and leanin, bacI in uy chair k fell into a brogn
+stmdyv  Amddenly uy couwanionCs .oice broIe in mwon uy thom,htsW
+
+T'om are ri,htp OatsonpT said hev  Tkt does seeu a uost wrewosteroms
+gay of settlin, a diswmtevT
+
+TGost wrewosteromsDT k eMclaiuedp and then smddenly reali"in, hog he
+had echoed the inuost thom,ht of uy somlp k sat mw in uy chair and
+stared at hiu in blanI aua"euentv
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: w
+Enter what the character w should decrypt to instead: p
+w's will now decrypt to p's and vice versa.
+
+The current version of the decrypted text is: 
+
+kn choosin, a feg typical cases ghich illmstrate the reuarIable uental
+Lmalities of uy friendw AherlocI -oluesw k ha.e endea.omredw as far as
+possiblew to select those ghich presented the uiniumu of
+sensationalisuw ghile offerin, a fair field for his talentsv  kt isw
+hoge.erw mnfortmnately iupossible entirely to separate the sensational
+frou the criuinalw and a chronicler is left in the dileuua that he umst
+either sacrifice details ghich are essential to his stateuent and so
+,i.e a false iupression of the probleuw or he umst mse uatter ghich
+chancew and not choicew has pro.ided hiu githv  Oith this short preface
+k shall tmrn to uy notes of ghat pro.ed to be a stran,ew thom,h a
+pecmliarly terriblew chain of e.entsv
+
+kt gas a bla"in, hot day in Nm,mstv  RaIer Atreet gas liIe an o.enw and
+the ,lare of the smnli,ht mpon the yellog bricIgorI of the homse across
+the road gas painfml to the eyev  kt gas hard to belie.e that these
+gere the saue galls ghich looued so ,loouily throm,h the fo,s of
+ginterv  Pmr blinds gere halfSdragnw and -olues lay cmrled mpon the
+sofaw readin, and reSreadin, a letter ghich he had recei.ed by the
+uornin, postv  Eor uyselfw uy teru of ser.ice in kndia had trained ue
+to stand heat better than coldw and a theruoueter at ninety gas no
+hardshipv  Rmt the uornin, paper gas mninterestin,v  _arliauent had
+risenv H.erybody gas omt of tognw and k yearned for the ,lades of the
+Beg Eorest or the shin,le of Aomthseav  N depleted banI accomnt had
+camsed ue to postpone uy holidayw and as to uy coupanionw neither the
+comntry nor the sea presented the sli,htest attraction to hiuv  -e
+lo.ed to lie in the .ery center of fi.e uillions of peoplew gith his
+filauents stretchin, omt and rmnnin, throm,h theuw responsi.e to e.ery
+little rmuomr or smspicion of mnsol.ed criuev  Nppreciation of natmre
+fomnd no place auon, his uany ,iftsw and his only chan,e gas ghen he
+tmrned his uind frou the e.ilSdoer of the togn to tracI dogn his
+brother of the comntryv
+
+Eindin, that -olues gas too absorbed for con.ersation k had tossed side
+the barren paperw and leanin, bacI in uy chair k fell into a brogn
+stmdyv  Amddenly uy coupanionCs .oice broIe in mpon uy thom,htsW
+
+T'om are ri,htw OatsonwT said hev  Tkt does seeu a uost preposteroms
+gay of settlin, a dispmtevT
+
+TGost preposteromsDT k eMclaiuedw and then smddenly reali"in, hog he
+had echoed the inuost thom,ht of uy somlw k sat mp in uy chair and
+stared at hiu in blanI aua"euentv
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: g
+Enter what the character g should decrypt to instead: w
+g's will now decrypt to w's and vice versa.
+
+The current version of the decrypted text is: 
+
+kn choosin, a few typical cases which illmstrate the reuarIable uental
+Lmalities of uy friendg AherlocI -oluesg k ha.e endea.omredg as far as
+possibleg to select those which presented the uiniumu of
+sensationalisug while offerin, a fair field for his talentsv  kt isg
+howe.erg mnfortmnately iupossible entirely to separate the sensational
+frou the criuinalg and a chronicler is left in the dileuua that he umst
+either sacrifice details which are essential to his stateuent and so
+,i.e a false iupression of the probleug or he umst mse uatter which
+chanceg and not choiceg has pro.ided hiu withv  Oith this short preface
+k shall tmrn to uy notes of what pro.ed to be a stran,eg thom,h a
+pecmliarly terribleg chain of e.entsv
+
+kt was a bla"in, hot day in Nm,mstv  RaIer Atreet was liIe an o.eng and
+the ,lare of the smnli,ht mpon the yellow bricIworI of the homse across
+the road was painfml to the eyev  kt was hard to belie.e that these
+were the saue walls which looued so ,loouily throm,h the fo,s of
+winterv  Pmr blinds were halfSdrawng and -olues lay cmrled mpon the
+sofag readin, and reSreadin, a letter which he had recei.ed by the
+uornin, postv  Eor uyselfg uy teru of ser.ice in kndia had trained ue
+to stand heat better than coldg and a theruoueter at ninety was no
+hardshipv  Rmt the uornin, paper was mninterestin,v  _arliauent had
+risenv H.erybody was omt of towng and k yearned for the ,lades of the
+Bew Eorest or the shin,le of Aomthseav  N depleted banI accomnt had
+camsed ue to postpone uy holidayg and as to uy coupaniong neither the
+comntry nor the sea presented the sli,htest attraction to hiuv  -e
+lo.ed to lie in the .ery center of fi.e uillions of peopleg with his
+filauents stretchin, omt and rmnnin, throm,h theug responsi.e to e.ery
+little rmuomr or smspicion of mnsol.ed criuev  Nppreciation of natmre
+fomnd no place auon, his uany ,iftsg and his only chan,e was when he
+tmrned his uind frou the e.ilSdoer of the town to tracI down his
+brother of the comntryv
+
+Eindin, that -olues was too absorbed for con.ersation k had tossed side
+the barren paperg and leanin, bacI in uy chair k fell into a brown
+stmdyv  Amddenly uy coupanionCs .oice broIe in mpon uy thom,htsW
+
+T'om are ri,htg OatsongT said hev  Tkt does seeu a uost preposteroms
+way of settlin, a dispmtevT
+
+TGost preposteromsDT k eMclaiuedg and then smddenly reali"in, how he
+had echoed the inuost thom,ht of uy somlg k sat mp in uy chair and
+stared at hiu in blanI aua"euentv
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: m
+Enter what the character m should decrypt to instead: u
+m's will now decrypt to u's and vice versa.
+
+The current version of the decrypted text is: 
+
+kn choosin, a few typical cases which illustrate the remarIable mental
+Lualities of my friendg AherlocI -olmesg k ha.e endea.ouredg as far as
+possibleg to select those which presented the minimum of
+sensationalismg while offerin, a fair field for his talentsv  kt isg
+howe.erg unfortunately impossible entirely to separate the sensational
+from the criminalg and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+,i.e a false impression of the problemg or he must use matter which
+chanceg and not choiceg has pro.ided him withv  Oith this short preface
+k shall turn to my notes of what pro.ed to be a stran,eg thou,h a
+peculiarly terribleg chain of e.entsv
+
+kt was a bla"in, hot day in Nu,ustv  RaIer Atreet was liIe an o.eng and
+the ,lare of the sunli,ht upon the yellow bricIworI of the house across
+the road was painful to the eyev  kt was hard to belie.e that these
+were the same walls which loomed so ,loomily throu,h the fo,s of
+winterv  Pur blinds were halfSdrawng and -olmes lay curled upon the
+sofag readin, and reSreadin, a letter which he had recei.ed by the
+mornin, postv  Eor myselfg my term of ser.ice in kndia had trained me
+to stand heat better than coldg and a thermometer at ninety was no
+hardshipv  Rut the mornin, paper was uninterestin,v  _arliament had
+risenv H.erybody was out of towng and k yearned for the ,lades of the
+Bew Eorest or the shin,le of Aouthseav  N depleted banI account had
+caused me to postpone my holidayg and as to my companiong neither the
+country nor the sea presented the sli,htest attraction to himv  -e
+lo.ed to lie in the .ery center of fi.e millions of peopleg with his
+filaments stretchin, out and runnin, throu,h themg responsi.e to e.ery
+little rumour or suspicion of unsol.ed crimev  Nppreciation of nature
+found no place amon, his many ,iftsg and his only chan,e was when he
+turned his mind from the e.ilSdoer of the town to tracI down his
+brother of the countryv
+
+Eindin, that -olmes was too absorbed for con.ersation k had tossed side
+the barren paperg and leanin, bacI in my chair k fell into a brown
+studyv  Auddenly my companionCs .oice broIe in upon my thou,htsW
+
+T'ou are ri,htg OatsongT said hev  Tkt does seem a most preposterous
+way of settlin, a disputevT
+
+TGost preposterousDT k eMclaimedg and then suddenly reali"in, how he
+had echoed the inmost thou,ht of my soulg k sat up in my chair and
+stared at him in blanI ama"ementv
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: I
+Enter what the character I should decrypt to instead: k
+I's will now decrypt to k's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosin, a few typical cases which illustrate the remarkable mental
+Lualities of my friendg Aherlock -olmesg I ha.e endea.ouredg as far as
+possibleg to select those which presented the minimum of
+sensationalismg while offerin, a fair field for his talentsv  It isg
+howe.erg unfortunately impossible entirely to separate the sensational
+from the criminalg and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+,i.e a false impression of the problemg or he must use matter which
+chanceg and not choiceg has pro.ided him withv  Oith this short preface
+I shall turn to my notes of what pro.ed to be a stran,eg thou,h a
+peculiarly terribleg chain of e.entsv
+
+It was a bla"in, hot day in Nu,ustv  Raker Atreet was like an o.eng and
+the ,lare of the sunli,ht upon the yellow brickwork of the house across
+the road was painful to the eyev  It was hard to belie.e that these
+were the same walls which loomed so ,loomily throu,h the fo,s of
+winterv  Pur blinds were halfSdrawng and -olmes lay curled upon the
+sofag readin, and reSreadin, a letter which he had recei.ed by the
+mornin, postv  Eor myselfg my term of ser.ice in India had trained me
+to stand heat better than coldg and a thermometer at ninety was no
+hardshipv  Rut the mornin, paper was uninterestin,v  _arliament had
+risenv H.erybody was out of towng and I yearned for the ,lades of the
+Bew Eorest or the shin,le of Aouthseav  N depleted bank account had
+caused me to postpone my holidayg and as to my companiong neither the
+country nor the sea presented the sli,htest attraction to himv  -e
+lo.ed to lie in the .ery center of fi.e millions of peopleg with his
+filaments stretchin, out and runnin, throu,h themg responsi.e to e.ery
+little rumour or suspicion of unsol.ed crimev  Nppreciation of nature
+found no place amon, his many ,iftsg and his only chan,e was when he
+turned his mind from the e.ilSdoer of the town to track down his
+brother of the countryv
+
+Eindin, that -olmes was too absorbed for con.ersation I had tossed side
+the barren paperg and leanin, back in my chair I fell into a brown
+studyv  Auddenly my companionCs .oice broke in upon my thou,htsW
+
+T'ou are ri,htg OatsongT said hev  TIt does seem a most preposterous
+way of settlin, a disputevT
+
+TGost preposterousDT I eMclaimedg and then suddenly reali"in, how he
+had echoed the inmost thou,ht of my soulg I sat up in my chair and
+stared at him in blank ama"ementv
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: A
+Enter what the character A should decrypt to instead: S
+A's will now decrypt to S's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosin, a few typical cases which illustrate the remarkable mental
+Lualities of my friendg Sherlock -olmesg I ha.e endea.ouredg as far as
+possibleg to select those which presented the minimum of
+sensationalismg while offerin, a fair field for his talentsv  It isg
+howe.erg unfortunately impossible entirely to separate the sensational
+from the criminalg and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+,i.e a false impression of the problemg or he must use matter which
+chanceg and not choiceg has pro.ided him withv  Oith this short preface
+I shall turn to my notes of what pro.ed to be a stran,eg thou,h a
+peculiarly terribleg chain of e.entsv
+
+It was a bla"in, hot day in Nu,ustv  Raker Street was like an o.eng and
+the ,lare of the sunli,ht upon the yellow brickwork of the house across
+the road was painful to the eyev  It was hard to belie.e that these
+were the same walls which loomed so ,loomily throu,h the fo,s of
+winterv  Pur blinds were halfAdrawng and -olmes lay curled upon the
+sofag readin, and reAreadin, a letter which he had recei.ed by the
+mornin, postv  Eor myselfg my term of ser.ice in India had trained me
+to stand heat better than coldg and a thermometer at ninety was no
+hardshipv  Rut the mornin, paper was uninterestin,v  _arliament had
+risenv H.erybody was out of towng and I yearned for the ,lades of the
+Bew Eorest or the shin,le of Southseav  N depleted bank account had
+caused me to postpone my holidayg and as to my companiong neither the
+country nor the sea presented the sli,htest attraction to himv  -e
+lo.ed to lie in the .ery center of fi.e millions of peopleg with his
+filaments stretchin, out and runnin, throu,h themg responsi.e to e.ery
+little rumour or suspicion of unsol.ed crimev  Nppreciation of nature
+found no place amon, his many ,iftsg and his only chan,e was when he
+turned his mind from the e.ilAdoer of the town to track down his
+brother of the countryv
+
+Eindin, that -olmes was too absorbed for con.ersation I had tossed side
+the barren paperg and leanin, back in my chair I fell into a brown
+studyv  Suddenly my companionCs .oice broke in upon my thou,htsW
+
+T'ou are ri,htg OatsongT said hev  TIt does seem a most preposterous
+way of settlin, a disputevT
+
+TGost preposterousDT I eMclaimedg and then suddenly reali"in, how he
+had echoed the inmost thou,ht of my soulg I sat up in my chair and
+stared at him in blank ama"ementv
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: -
+Enter what the character - should decrypt to instead: H
+-'s will now decrypt to H's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosin, a few typical cases which illustrate the remarkable mental
+Lualities of my friendg Sherlock Holmesg I ha.e endea.ouredg as far as
+possibleg to select those which presented the minimum of
+sensationalismg while offerin, a fair field for his talentsv  It isg
+howe.erg unfortunately impossible entirely to separate the sensational
+from the criminalg and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+,i.e a false impression of the problemg or he must use matter which
+chanceg and not choiceg has pro.ided him withv  Oith this short preface
+I shall turn to my notes of what pro.ed to be a stran,eg thou,h a
+peculiarly terribleg chain of e.entsv
+
+It was a bla"in, hot day in Nu,ustv  Raker Street was like an o.eng and
+the ,lare of the sunli,ht upon the yellow brickwork of the house across
+the road was painful to the eyev  It was hard to belie.e that these
+were the same walls which loomed so ,loomily throu,h the fo,s of
+winterv  Pur blinds were halfAdrawng and Holmes lay curled upon the
+sofag readin, and reAreadin, a letter which he had recei.ed by the
+mornin, postv  Eor myselfg my term of ser.ice in India had trained me
+to stand heat better than coldg and a thermometer at ninety was no
+hardshipv  Rut the mornin, paper was uninterestin,v  _arliament had
+risenv -.erybody was out of towng and I yearned for the ,lades of the
+Bew Eorest or the shin,le of Southseav  N depleted bank account had
+caused me to postpone my holidayg and as to my companiong neither the
+country nor the sea presented the sli,htest attraction to himv  He
+lo.ed to lie in the .ery center of fi.e millions of peopleg with his
+filaments stretchin, out and runnin, throu,h themg responsi.e to e.ery
+little rumour or suspicion of unsol.ed crimev  Nppreciation of nature
+found no place amon, his many ,iftsg and his only chan,e was when he
+turned his mind from the e.ilAdoer of the town to track down his
+brother of the countryv
+
+Eindin, that Holmes was too absorbed for con.ersation I had tossed side
+the barren paperg and leanin, back in my chair I fell into a brown
+studyv  Suddenly my companionCs .oice broke in upon my thou,htsW
+
+T'ou are ri,htg OatsongT said hev  TIt does seem a most preposterous
+way of settlin, a disputevT
+
+TGost preposterousDT I eMclaimedg and then suddenly reali"in, how he
+had echoed the inmost thou,ht of my soulg I sat up in my chair and
+stared at him in blank ama"ementv
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: .
+Enter what the character . should decrypt to instead: v
+.'s will now decrypt to v's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosin, a few typical cases which illustrate the remarkable mental
+Lualities of my friendg Sherlock Holmesg I have endeavouredg as far as
+possibleg to select those which presented the minimum of
+sensationalismg while offerin, a fair field for his talents.  It isg
+howeverg unfortunately impossible entirely to separate the sensational
+from the criminalg and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+,ive a false impression of the problemg or he must use matter which
+chanceg and not choiceg has provided him with.  Oith this short preface
+I shall turn to my notes of what proved to be a stran,eg thou,h a
+peculiarly terribleg chain of events.
+
+It was a bla"in, hot day in Nu,ust.  Raker Street was like an oveng and
+the ,lare of the sunli,ht upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so ,loomily throu,h the fo,s of
+winter.  Pur blinds were halfAdrawng and Holmes lay curled upon the
+sofag readin, and reAreadin, a letter which he had received by the
+mornin, post.  Eor myselfg my term of service in India had trained me
+to stand heat better than coldg and a thermometer at ninety was no
+hardship.  Rut the mornin, paper was uninterestin,.  _arliament had
+risen. -verybody was out of towng and I yearned for the ,lades of the
+Bew Eorest or the shin,le of Southsea.  N depleted bank account had
+caused me to postpone my holidayg and as to my companiong neither the
+country nor the sea presented the sli,htest attraction to him.  He
+loved to lie in the very center of five millions of peopleg with his
+filaments stretchin, out and runnin, throu,h themg responsive to every
+little rumour or suspicion of unsolved crime.  Nppreciation of nature
+found no place amon, his many ,iftsg and his only chan,e was when he
+turned his mind from the evilAdoer of the town to track down his
+brother of the country.
+
+Eindin, that Holmes was too absorbed for conversation I had tossed side
+the barren paperg and leanin, back in my chair I fell into a brown
+study.  Suddenly my companionCs voice broke in upon my thou,htsW
+
+T'ou are ri,htg OatsongT said he.  TIt does seem a most preposterous
+way of settlin, a dispute.T
+
+TGost preposterousDT I eMclaimedg and then suddenly reali"in, how he
+had echoed the inmost thou,ht of my soulg I sat up in my chair and
+stared at him in blank ama"ement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: ,
+Enter what the character , should decrypt to instead: g
+,'s will now decrypt to g's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  Oith this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a bla"ing hot day in Nugust.  Raker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Pur blinds were halfAdrawn, and Holmes lay curled upon the
+sofa, reading and reAreading a letter which he had received by the
+morning post.  Eor myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  Rut the morning paper was uninteresting.  _arliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Bew Eorest or the shingle of Southsea.  N depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Nppreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilAdoer of the town to track down his
+brother of the country.
+
+Einding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companionCs voice broke in upon my thoughtsW
+
+T'ou are right, Oatson,T said he.  TIt does seem a most preposterous
+way of settling a dispute.T
+
+TGost preposterousDT I eMclaimed, and then suddenly reali"ing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank ama"ement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: T
+Enter what the character T should decrypt to instead: "
+T's will now decrypt to "'s and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  Oith this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blaTing hot day in Nugust.  Raker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Pur blinds were halfAdrawn, and Holmes lay curled upon the
+sofa, reading and reAreading a letter which he had received by the
+morning post.  Eor myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  Rut the morning paper was uninteresting.  _arliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Bew Eorest or the shingle of Southsea.  N depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Nppreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilAdoer of the town to track down his
+brother of the country.
+
+Einding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companionCs voice broke in upon my thoughtsW
+
+"'ou are right, Oatson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Gost preposterousD" I eMclaimed, and then suddenly realiTing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amaTement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: O
+Enter what the character O should decrypt to instead: W
+O's will now decrypt to W's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blaTing hot day in Nugust.  Raker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Pur blinds were halfAdrawn, and Holmes lay curled upon the
+sofa, reading and reAreading a letter which he had received by the
+morning post.  Eor myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  Rut the morning paper was uninteresting.  _arliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Bew Eorest or the shingle of Southsea.  N depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Nppreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilAdoer of the town to track down his
+brother of the country.
+
+Einding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companionCs voice broke in upon my thoughtsO
+
+"'ou are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Gost preposterousD" I eMclaimed, and then suddenly realiTing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amaTement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: Y
+Enter what the character Y should decrypt to instead: '
+Y's will now decrypt to ''s and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blaTing hot day in Nugust.  Raker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Pur blinds were halfAdrawn, and Holmes lay curled upon the
+sofa, reading and reAreading a letter which he had received by the
+morning post.  Eor myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  Rut the morning paper was uninteresting.  _arliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Bew Eorest or the shingle of Southsea.  N depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Nppreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilAdoer of the town to track down his
+brother of the country.
+
+Einding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companionCs voice broke in upon my thoughtsO
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Gost preposterousD" I eMclaimed, and then suddenly realiTing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amaTement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: M
+Enter what the character M should decrypt to instead: x
+M's will now decrypt to x's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blaTing hot day in Nugust.  Raker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Pur blinds were halfAdrawn, and Holmes lay curled upon the
+sofa, reading and reAreading a letter which he had received by the
+morning post.  Eor myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  Rut the morning paper was uninteresting.  _arliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Bew Eorest or the shingle of Southsea.  N depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Nppreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilAdoer of the town to track down his
+brother of the country.
+
+Einding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companionCs voice broke in upon my thoughtsO
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Gost preposterousD" I exclaimed, and then suddenly realiTing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amaTement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: T
+Enter what the character T should decrypt to instead: z
+T's will now decrypt to z's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in Nugust.  Raker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Pur blinds were halfAdrawn, and Holmes lay curled upon the
+sofa, reading and reAreading a letter which he had received by the
+morning post.  Eor myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  Rut the morning paper was uninteresting.  _arliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Bew Eorest or the shingle of Southsea.  N depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Nppreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilAdoer of the town to track down his
+brother of the country.
+
+Einding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companionCs voice broke in upon my thoughtsO
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Gost preposterousD" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: D
+Enter what the character D should decrypt to instead: !
+D's will now decrypt to !'s and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in Nugust.  Raker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Pur blinds were halfAdrawn, and Holmes lay curled upon the
+sofa, reading and reAreading a letter which he had received by the
+morning post.  Eor myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  Rut the morning paper was uninteresting.  _arliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Bew Eorest or the shingle of Southsea.  N depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Nppreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilAdoer of the town to track down his
+brother of the country.
+
+Einding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companionCs voice broke in upon my thoughtsO
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Gost preposterous!" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: E
+Enter what the character E should decrypt to instead: F
+E's will now decrypt to F's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in Nugust.  Raker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Pur blinds were halfAdrawn, and Holmes lay curled upon the
+sofa, reading and reAreading a letter which he had received by the
+morning post.  For myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  Rut the morning paper was uninteresting.  _arliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Bew Forest or the shingle of Southsea.  N depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Nppreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilAdoer of the town to track down his
+brother of the country.
+
+Finding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companionCs voice broke in upon my thoughtsO
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Gost preposterous!" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: C
+Enter what the character C should decrypt to instead: '
+C's will now decrypt to ''s and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in Nugust.  Raker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Pur blinds were halfAdrawn, and Holmes lay curled upon the
+sofa, reading and reAreading a letter which he had received by the
+morning post.  For myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  Rut the morning paper was uninteresting.  _arliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Bew Forest or the shingle of Southsea.  N depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Nppreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilAdoer of the town to track down his
+brother of the country.
+
+Finding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companion's voice broke in upon my thoughtsO
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Gost preposterous!" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: t
+Enter what the character t should decrypt to instead: a
+t's will now decrypt to a's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing t few aypictl ctses which illusartae ahe remtrktble menatl
+Lutliaies of my friend, Sherlock Holmes, I htve endetvoured, ts ftr ts
+possible, ao seleca ahose which presenaed ahe minimum of
+senstaiontlism, while offering t ftir field for his atlenas.  Ia is,
+however, unforauntaely impossible enairely ao septrtae ahe senstaiontl
+from ahe crimintl, tnd t chronicler is lefa in ahe dilemmt ahta he musa
+eiaher stcrifice deatils which tre essenaitl ao his sataemena tnd so
+give t ftlse impression of ahe problem, or he musa use mtaaer which
+chtnce, tnd noa choice, hts provided him wiah.  Wiah ahis shora preftce
+I shtll aurn ao my noaes of whta proved ao be t sartnge, ahough t
+peculitrly aerrible, chtin of evenas.
+
+Ia wts t bltzing hoa dty in Nugusa.  Rtker Sareea wts like tn oven, tnd
+ahe gltre of ahe sunligha upon ahe yellow brickwork of ahe house tcross
+ahe rotd wts ptinful ao ahe eye.  Ia wts htrd ao believe ahta ahese
+were ahe stme wtlls which loomed so gloomily ahrough ahe fogs of
+winaer.  Pur blinds were htlfAdrtwn, tnd Holmes lty curled upon ahe
+soft, retding tnd reAretding t leaaer which he htd received by ahe
+morning posa.  For myself, my aerm of service in Indit htd artined me
+ao satnd heta beaaer ahtn cold, tnd t ahermomeaer ta nineay wts no
+htrdship.  Rua ahe morning ptper wts uninaeresaing.  _trlitmena htd
+risen. -verybody wts oua of aown, tnd I yetrned for ahe gltdes of ahe
+Bew Foresa or ahe shingle of Souahset.  N depleaed btnk tccouna htd
+ctused me ao posapone my holidty, tnd ts ao my comptnion, neiaher ahe
+counary nor ahe set presenaed ahe slighaesa taartcaion ao him.  He
+loved ao lie in ahe very cenaer of five millions of people, wiah his
+filtmenas sareaching oua tnd running ahrough ahem, responsive ao every
+liaale rumour or suspicion of unsolved crime.  Npprecitaion of ntaure
+found no pltce tmong his mtny gifas, tnd his only chtnge wts when he
+aurned his mind from ahe evilAdoer of ahe aown ao artck down his
+broaher of ahe counary.
+
+Finding ahta Holmes wts aoo tbsorbed for converstaion I htd aossed side
+ahe btrren ptper, tnd letning btck in my chtir I fell inao t brown
+saudy.  Suddenly my comptnion's voice broke in upon my ahoughasO
+
+"You tre righa, Wtason," stid he.  "Ia does seem t mosa preposaerous
+wty of seaaling t dispuae."
+
+"Gosa preposaerous!" I excltimed, tnd ahen suddenly retlizing how he
+htd echoed ahe inmosa ahougha of my soul, I sta up in my chtir tnd
+satred ta him in bltnk tmtzemena.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: t
+Enter what the character t should decrypt to instead: a
+t's will now decrypt to a's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in Nugust.  Raker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Pur blinds were halfAdrawn, and Holmes lay curled upon the
+sofa, reading and reAreading a letter which he had received by the
+morning post.  For myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  Rut the morning paper was uninteresting.  _arliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Bew Forest or the shingle of Southsea.  N depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Nppreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilAdoer of the town to track down his
+brother of the country.
+
+Finding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companion's voice broke in upon my thoughtsO
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Gost preposterous!" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: G
+Enter what the character G should decrypt to instead: M
+G's will now decrypt to M's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in Nugust.  Raker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Pur blinds were halfAdrawn, and Holmes lay curled upon the
+sofa, reading and reAreading a letter which he had received by the
+morning post.  For myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  Rut the morning paper was uninteresting.  _arliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Bew Forest or the shingle of Southsea.  N depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Nppreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilAdoer of the town to track down his
+brother of the country.
+
+Finding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companion's voice broke in upon my thoughtsO
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Most preposterous!" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: N
+Enter what the character N should decrypt to instead: A
+N's will now decrypt to A's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in August.  Raker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Pur blinds were halfNdrawn, and Holmes lay curled upon the
+sofa, reading and reNreading a letter which he had received by the
+morning post.  For myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  Rut the morning paper was uninteresting.  _arliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Bew Forest or the shingle of Southsea.  A depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Appreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilNdoer of the town to track down his
+brother of the country.
+
+Finding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companion's voice broke in upon my thoughtsO
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Most preposterous!" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: R
+Enter what the character R should decrypt to instead: B
+R's will now decrypt to B's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in August.  Baker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Pur blinds were halfNdrawn, and Holmes lay curled upon the
+sofa, reading and reNreading a letter which he had received by the
+morning post.  For myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  But the morning paper was uninteresting.  _arliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Rew Forest or the shingle of Southsea.  A depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Appreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilNdoer of the town to track down his
+brother of the country.
+
+Finding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companion's voice broke in upon my thoughtsO
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Most preposterous!" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: _
+Enter what the character _ should decrypt to instead: P
+_'s will now decrypt to P's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in August.  Baker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  _ur blinds were halfNdrawn, and Holmes lay curled upon the
+sofa, reading and reNreading a letter which he had received by the
+morning post.  For myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  But the morning paper was uninteresting.  Parliament had
+risen. -verybody was out of town, and I yearned for the glades of the
+Rew Forest or the shingle of Southsea.  A depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Appreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilNdoer of the town to track down his
+brother of the country.
+
+Finding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companion's voice broke in upon my thoughtsO
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Most preposterous!" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: -
+Enter what the character - should decrypt to instead: E
+-'s will now decrypt to E's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in August.  Baker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  _ur blinds were halfNdrawn, and Holmes lay curled upon the
+sofa, reading and reNreading a letter which he had received by the
+morning post.  For myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  But the morning paper was uninteresting.  Parliament had
+risen. Everybody was out of town, and I yearned for the glades of the
+Rew Forest or the shingle of Southsea.  A depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Appreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evilNdoer of the town to track down his
+brother of the country.
+
+Finding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companion's voice broke in upon my thoughtsO
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Most preposterous!" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: N
+Enter what the character N should decrypt to instead: -
+N's will now decrypt to -'s and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in August.  Baker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  _ur blinds were half-drawn, and Holmes lay curled upon the
+sofa, reading and re-reading a letter which he had received by the
+morning post.  For myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  But the morning paper was uninteresting.  Parliament had
+risen. Everybody was out of town, and I yearned for the glades of the
+Rew Forest or the shingle of Southsea.  A depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Appreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evil-doer of the town to track down his
+brother of the country.
+
+Finding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companion's voice broke in upon my thoughtsO
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Most preposterous!" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: _
+Enter what the character _ should decrypt to instead: O
+_'s will now decrypt to O's and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in August.  Baker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Our blinds were half-drawn, and Holmes lay curled upon the
+sofa, reading and re-reading a letter which he had received by the
+morning post.  For myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  But the morning paper was uninteresting.  Parliament had
+risen. Everybody was out of town, and I yearned for the glades of the
+Rew Forest or the shingle of Southsea.  A depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Appreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evil-doer of the town to track down his
+brother of the country.
+
+Finding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companion's voice broke in upon my thoughts_
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Most preposterous!" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: y
+Enter the decrypt character you want to change: _
+Enter what the character _ should decrypt to instead: :
+_'s will now decrypt to :'s and vice versa.
+
+The current version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in August.  Baker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Our blinds were half-drawn, and Holmes lay curled upon the
+sofa, reading and re-reading a letter which he had received by the
+morning post.  For myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  But the morning paper was uninteresting.  Parliament had
+risen. Everybody was out of town, and I yearned for the glades of the
+Rew Forest or the shingle of Southsea.  A depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Appreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evil-doer of the town to track down his
+brother of the country.
+
+Finding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companion's voice broke in upon my thoughts:
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Most preposterous!" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
+
+Do you want to make a change to the key?
+Enter 'Y' or 'y' to make change: n
+
+The current version of the key for ASCII characters 32 to 126 is: 
+Encrypt character:  , decrypt character: \
+Encrypt character: !, decrypt character: :
+Encrypt character: ", decrypt character: <
+Encrypt character: #, decrypt character: >
+Encrypt character: $, decrypt character: b
+Encrypt character: %, decrypt character: @
+Encrypt character: &, decrypt character: %
+Encrypt character: ', decrypt character: `
+Encrypt character: (, decrypt character: ^
+Encrypt character: ), decrypt character: y
+Encrypt character: *, decrypt character:  
+Encrypt character: +, decrypt character: ~
+Encrypt character: ,, decrypt character: A
+Encrypt character: -, decrypt character: $
+Encrypt character: ., decrypt character: {
+Encrypt character: /, decrypt character: }
+Encrypt character: 0, decrypt character: M
+Encrypt character: 1, decrypt character: +
+Encrypt character: 2, decrypt character: g
+Encrypt character: 3, decrypt character: n
+Encrypt character: 4, decrypt character: -
+Encrypt character: 5, decrypt character: p
+Encrypt character: 6, decrypt character: !
+Encrypt character: 7, decrypt character: l
+Encrypt character: 8, decrypt character: s
+Encrypt character: 9, decrypt character: r
+Encrypt character: :, decrypt character: &
+Encrypt character: ;, decrypt character: P
+Encrypt character: <, decrypt character: #
+Encrypt character: =, decrypt character: S
+Encrypt character: >, decrypt character: Z
+Encrypt character: ?, decrypt character: =
+Encrypt character: @, decrypt character: t
+Encrypt character: A, decrypt character: a
+Encrypt character: B, decrypt character: Q
+Encrypt character: C, decrypt character: |
+Encrypt character: D, decrypt character: /
+Encrypt character: E, decrypt character: ]
+Encrypt character: F, decrypt character: [
+Encrypt character: G, decrypt character: O
+Encrypt character: H, decrypt character: R
+Encrypt character: I, decrypt character: I
+Encrypt character: J, decrypt character: x
+Encrypt character: K, decrypt character: (
+Encrypt character: L, decrypt character: v
+Encrypt character: M, decrypt character: e
+Encrypt character: N, decrypt character: )
+Encrypt character: O, decrypt character: 7
+Encrypt character: P, decrypt character: u
+Encrypt character: Q, decrypt character: 6
+Encrypt character: R, decrypt character: m
+Encrypt character: S, decrypt character: 5
+Encrypt character: T, decrypt character: 4
+Encrypt character: U, decrypt character: 9
+Encrypt character: V, decrypt character: X
+Encrypt character: W, decrypt character: z
+Encrypt character: X, decrypt character: 3
+Encrypt character: Y, decrypt character: i
+Encrypt character: Z, decrypt character: 8
+Encrypt character: [, decrypt character: K
+Encrypt character: \, decrypt character: ?
+Encrypt character: ], decrypt character: f
+Encrypt character: ^, decrypt character: L
+Encrypt character: _, decrypt character: D
+Encrypt character: `, decrypt character: B
+Encrypt character: a, decrypt character: d
+Encrypt character: b, decrypt character: '
+Encrypt character: c, decrypt character: .
+Encrypt character: d, decrypt character: W
+Encrypt character: e, decrypt character: T
+Encrypt character: f, decrypt character: ,
+Encrypt character: g, decrypt character: 0
+Encrypt character: h, decrypt character: o
+Encrypt character: i, decrypt character: J
+Encrypt character: j, decrypt character: "
+Encrypt character: k, decrypt character: 2
+Encrypt character: l, decrypt character: F
+Encrypt character: m, decrypt character: V
+Encrypt character: n, decrypt character: Y
+Encrypt character: o, decrypt character: *
+Encrypt character: p, decrypt character: h
+Encrypt character: q, decrypt character: H
+Encrypt character: r, decrypt character: _
+Encrypt character: s, decrypt character: k
+Encrypt character: t, decrypt character: q
+Encrypt character: u, decrypt character: C
+Encrypt character: v, decrypt character: U
+Encrypt character: w, decrypt character: j
+Encrypt character: x, decrypt character: ;
+Encrypt character: y, decrypt character: w
+Encrypt character: z, decrypt character: E
+Encrypt character: {, decrypt character: c
+Encrypt character: |, decrypt character: G
+Encrypt character: }, decrypt character: 1
+Encrypt character: ~, decrypt character: N
+
+The final version of the decrypted text is: 
+
+In choosing a few typical cases which illustrate the remarkable mental
+Lualities of my friend, Sherlock Holmes, I have endeavoured, as far as
+possible, to select those which presented the minimum of
+sensationalism, while offering a fair field for his talents.  It is,
+however, unfortunately impossible entirely to separate the sensational
+from the criminal, and a chronicler is left in the dilemma that he must
+either sacrifice details which are essential to his statement and so
+give a false impression of the problem, or he must use matter which
+chance, and not choice, has provided him with.  With this short preface
+I shall turn to my notes of what proved to be a strange, though a
+peculiarly terrible, chain of events.
+
+It was a blazing hot day in August.  Baker Street was like an oven, and
+the glare of the sunlight upon the yellow brickwork of the house across
+the road was painful to the eye.  It was hard to believe that these
+were the same walls which loomed so gloomily through the fogs of
+winter.  Our blinds were half-drawn, and Holmes lay curled upon the
+sofa, reading and re-reading a letter which he had received by the
+morning post.  For myself, my term of service in India had trained me
+to stand heat better than cold, and a thermometer at ninety was no
+hardship.  But the morning paper was uninteresting.  Parliament had
+risen. Everybody was out of town, and I yearned for the glades of the
+Rew Forest or the shingle of Southsea.  A depleted bank account had
+caused me to postpone my holiday, and as to my companion, neither the
+country nor the sea presented the slightest attraction to him.  He
+loved to lie in the very center of five millions of people, with his
+filaments stretching out and running through them, responsive to every
+little rumour or suspicion of unsolved crime.  Appreciation of nature
+found no place among his many gifts, and his only change was when he
+turned his mind from the evil-doer of the town to track down his
+brother of the country.
+
+Finding that Holmes was too absorbed for conversation I had tossed side
+the barren paper, and leaning back in my chair I fell into a brown
+study.  Suddenly my companion's voice broke in upon my thoughts:
+
+"You are right, Watson," said he.  "It does seem a most preposterous
+way of settling a dispute."
+
+"Most preposterous!" I exclaimed, and then suddenly realizing how he
+had echoed the inmost thought of my soul, I sat up in my chair and
+stared at him in blank amazement.
